@@ -1,4 +1,4 @@
-#Lyrics Finder
+**Lyrics Finder**
 
 Brief - To create a single page application that relies heavily on one or more APIs.
 
